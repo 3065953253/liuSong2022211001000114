@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="liuSong2022211001000114:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>liuSong2022211001000114</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="liuSong2022211001000114-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="liuSong2022211001000114:war exploded" />
+    </root>
+  </artifact>
+</component>
